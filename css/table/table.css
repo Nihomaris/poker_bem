@@ -1,0 +1,18 @@
+.table {
+
+	width: 90%;
+	height: 415px;
+	margin: 20px auto 0 auto;
+}
+
+.combo-block__picture {
+	width: 300px;	
+}
+
+.combo-block {
+  border: 2px solid #fff;
+}
+
+.combo-block td {
+  border: 2px solid #fff;
+}
